@@ -7,6 +7,10 @@ This sample Twitter client provides examples of the following:
  * Eclipse Maven integration
  * Twitter API
  * JDBC API
+ 
+Usage
+-------------------------------
+Run from eclipse in App.java or from a Maven jar
 
 Dependencies
 -------------------------------
