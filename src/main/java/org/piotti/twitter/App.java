@@ -155,10 +155,7 @@ public class App {
 			} catch (SQLException se) {
 				se.printStackTrace();
 			}
-
 		}
 		System.out.println("Tweets added to database.");
-
 	}
-
 }
